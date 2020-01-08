@@ -6,7 +6,7 @@
  *         Date: 2020-01-08 11:13   *
  * **********************************
  **/
-namespace Sqy\dump;
+namespace Sqy\Dump;
 class Dd
 {
     public function dd($data = [])
